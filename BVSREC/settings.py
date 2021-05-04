@@ -25,7 +25,7 @@ SECRET_KEY = 'o9((lv=aeli-=%gkc7sjbk+#nznv8og0z=0e774=#-7%u13x&1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','djangocollegeapp.herokuapp.com']
 
 
 # Application definition
